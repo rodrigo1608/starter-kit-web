@@ -1,0 +1,22 @@
+/* Remove margens e preenchimentos padrão de todos os elementos */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+
+/* Remove o estilo de lista e outras estilizações padrão */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Remove o estilo de tabelas */
+table {
+    border-collapse: collapse;
+}
