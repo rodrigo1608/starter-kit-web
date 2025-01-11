@@ -1,0 +1,33 @@
+.main-title {
+    font-size: 2.986rem;
+    /* letter-spacing: 5px; */
+    color: darkgray;
+}
+
+.sub-title {
+    font-size: 2.488rem;
+}
+
+.small-title {
+    font-size: 1.3rem;
+}
+
+.text-xs {
+    font-size: 0.694rem;
+}
+
+.third-title {
+    font-size: 2.074rem;
+}
+
+.weight{
+  font-weight: 500;
+}
+
+.bolder {
+    font-weight: bold;
+}
+
+.thin {
+    font-weight: 300;
+}
