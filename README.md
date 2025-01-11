@@ -1,2 +1,3 @@
-# css-starter-kit
-"Base CSS para iniciar projetos com boas práticas e componentes prontos."
+# CSS Starter Kit
+
+Kit inicial de estilos CSS para projetos web, com padrões reutilizáveis
