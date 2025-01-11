@@ -1,0 +1,19 @@
+.light-text-color {
+    color: darkgray;
+}
+
+.content-light-background {
+    background-color: snow;
+}
+
+.content-light-background:hover {
+    background-color: whitesmoke;
+}
+
+.light-border {
+    border-bottom: lightgray 1px solid;
+}
+
+.standard-text-color {
+    color: #333333;
+}
