@@ -6,6 +6,10 @@
     background-color: snow;
 }
 
+.content-dark-background {
+    background-color: silver;
+}
+
 .content-light-background:hover {
     background-color: whitesmoke;
 }
