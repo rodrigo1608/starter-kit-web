@@ -1,0 +1,33 @@
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="description" content="Descrição clara e atrativa sobre o conteúdo da sua página ou site.">
+    <meta name="author" content="Seu Nome ou Nome da Empresa">
+
+    <meta property="og:title" content="Título da Página ou Site">
+    <meta property="og:description" content="Resumo ou descrição para redes sociais.">
+    <meta property="og:image" content="URL-da-imagem-de-destaque.jpg">
+    <meta property="og:type" content="website">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Título da Página ou Site">
+    <meta name="twitter:description" content="Resumo ou descrição para redes sociais.">
+    <meta name="twitter:image" content="URL-da-imagem-de-destaque.jpg">
+
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="manifest" href="manifest.json">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <title>Nome do Site - Título da Página</title>
+
+</head>
