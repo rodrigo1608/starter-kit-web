@@ -4,14 +4,19 @@
     background-color: var(--blue);
     font-size: 2rem;
     font-weight: 600;
-    color: var(--darker-blue);
+    color:var(--lighter);
     padding: 1.6rem 3.2rem;
     cursor: pointer;
     transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
 .button:hover {
-    background-color: var(--dark-blue);
-    color:var(--lighter);
+    background-color: var(--dark-blue); 
 
+}
+
+.button:active {
+    background-color: var(--ligh);
+    color: var(--blue)
+    
 }
