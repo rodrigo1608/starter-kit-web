@@ -1,33 +1,34 @@
-<head>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <meta name="description" content="Descrição clara e atrativa sobre o conteúdo da sua página ou site.">
-    <meta name="author" content="Seu Nome ou Nome da Empresa">
-
-    <meta property="og:title" content="Título da Página ou Site">
-    <meta property="og:description" content="Resumo ou descrição para redes sociais.">
-    <meta property="og:image" content="URL-da-imagem-de-destaque.jpg">
-    <meta property="og:type" content="website">
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Título da Página ou Site">
-    <meta name="twitter:description" content="Resumo ou descrição para redes sociais.">
-    <meta name="twitter:image" content="URL-da-imagem-de-destaque.jpg">
-
-    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-    <link rel="manifest" href="manifest.json">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
-        rel="stylesheet">
-
-    <link rel="stylesheet" href="css/styles.css">
-
-    <title>Nome do Site - Título da Página</title>
-
-</head>
+ <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Formulário de contato para envio de mensagens. Entre em contato conosco!">
+        <meta name="author" content="Seu Nome">
+    
+        <!-- Open Graph / Twitter (para redes sociais) -->
+        <meta property="og:title" content="Formulário de Contato | Nome do Site">
+        <meta property="og:description" content="Envie sua mensagem através do nosso formulário de contato.">
+        <meta property="og:image" content="https://exemplo.com/assets/og-contact-image.jpg">
+        <meta property="og:type" content="website">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Formulário de Contato | Nome do Site">
+        <meta name="twitter:description" content="Envie sua mensagem através do nosso formulário de contato.">
+        <meta name="twitter:image" content="https://exemplo.com/assets/twitter-contact-image.jpg">
+    
+        <!-- Ícones -->
+        <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+        <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+        <link rel="manifest" href="manifest.json">
+    
+        <!-- Pré-carregamento de fontes -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    
+        <!-- Ícones do Material Design -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/styles.css">
+    
+        <title>Formulário de Contato | Nome do Site</title>
+    </head>
