@@ -93,7 +93,7 @@ video {
     border: 0;
     font: inherit;
     vertical-align: baseline;
-    font-size: 62.52%;
+    
 }
 
 :root {
@@ -107,9 +107,11 @@ video {
     --darker-blue:#4A7FC9;
     --title-family: 'Montserrat';
     --hero-height: calc(100vh - 142px);
-    font-family: 'Noto Sans';
-    font-weight: 300;
     color: #888888;
+    font-family: 'Noto Sans';
+    font-size: 62.52%;
+    font-weight: 300;
+    
 }
 
 h1,
